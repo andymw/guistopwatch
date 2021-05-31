@@ -2,8 +2,7 @@
 
 A stopwatch written in Java (optimized for cubing).
 Inspired by cubetimer.com.
-Note: cubetimer.com stops the timer upon key release,
-not key depress as it probably should.
+Note: cubetimer.com stops the timer upon key release, not key depress as it probably should.
 This Java application "fixes" that issue.
 
 #### Prerequisites:
