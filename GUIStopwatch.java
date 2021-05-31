@@ -5,7 +5,6 @@ import java.util.*;
 import javax.swing.*;
 
 public class GUIStopwatch extends JPanel {
-
     // holds elapsed times in reverse order (since beginning or latest reset)
     private static final LinkedList<Long> elapsedTimes = new LinkedList<>();
 
